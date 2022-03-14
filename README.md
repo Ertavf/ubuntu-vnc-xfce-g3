@@ -1,4 +1,4 @@
-# Used for Google Cloud - Cloudshell - Remote desktop 
+# Erdem used it for Google Cloud - Cloudshell - Remote desktop 
 
 
 # Headless Ubuntu/Xfce containers with VNC/noVNC
